@@ -1,0 +1,6 @@
+{
+    "name": "administrator/e-laning",
+    "require": {
+        "stichoza/google-translate-php": "^4.1"
+    }
+}
